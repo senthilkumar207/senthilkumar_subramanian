@@ -16,7 +16,9 @@
 
 <!-- Add your details -->
 
-I am __Senthilkumar Subramanian__, a digital marketing specialist with ~5 years of experience in digital marketing and startups. My key achievements include generating over $60k in revenue for my startup, [Streaks n Strokes](https://www.streaksnstrokes.com/), in December 2019 and [pivoting the startup in the midst of Covid19](https://www.streaksnstrokes.com/pages/our-story) to an ecommerce company. I am currently doing a Mid-Career Pathways Programme in Data Analytics by Boston Consulting Group from March to August 2021, as I am looking to pivot to a stable career in data analytics and/or digital marketing. The 2 key reasons I am looking to switch my career from startup founder to working in an organisation in data analytics and/or digital marketing are
+I am __Senthilkumar Subramanian__, a digital marketing specialist with ~5 years of experience in digital marketing and startups. My key achievements include generating over $60k in revenue for my startup, [Streaks n Strokes](https://www.streaksnstrokes.com/), in December 2019 and [pivoting the startup in the midst of Covid19](https://www.streaksnstrokes.com/pages/our-story) to an ecommerce company. 
+
+I am currently doing a Mid-Career Pathways Programme in Data Analytics by Boston Consulting Group from March to August 2021, as I am looking to pivot to a stable career in data analytics and/or digital marketing. The 2 key reasons I am looking to switch my career from startup founder to working in an organisation in data analytics and/or digital marketing are
 
 1.  I want to grow my skills further and faster in the areas of digital marketing and data analytics, which I will be able to do best in a career in this field. 
 2.  I am at a stage in my life where I want more financial stability, which a startup cannot provide. 
