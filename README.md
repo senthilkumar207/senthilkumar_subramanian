@@ -16,12 +16,14 @@
 
 <!-- Add your details -->
 
-I am __Senthilkumar Subramanian__, a digital marketing specialist with ~5 years of experience in digital marketing and startups. My key achievements include generating over $60k in revenue for my startup, [Streaks n Strokes](https://www.streaksnstrokes.com/), in December 2019 and [pivoting the startup in the midst of Covid19](https://www.streaksnstrokes.com/pages/our-story) to an ecommerce company. 
+I am __Senthilkumar Subramanian__, a 29 year old startup founder with ~5 years of experience in digital marketing and startups. My key achievements include generating over $60k in revenue for my startup, [Streaks n Strokes](https://www.streaksnstrokes.com/), in December 2019 and [pivoting the startup in the midst of Covid-19](https://www.streaksnstrokes.com/pages/our-story) to an ecommerce company. 
 
 I am currently doing a Mid-Career Pathways Programme in Data Analytics by Boston Consulting Group from March to August 2021, as I am looking to pivot to a stable career in data analytics and/or digital marketing. The 2 key reasons I am looking to switch my career from startup founder to working in an organisation in data analytics and/or digital marketing are
 
 1.  I want to grow my skills further and faster in the areas of digital marketing and data analytics, which I will be able to do best in a career in this field. 
 2.  I am at a stage in my life where I want more financial stability, which a startup cannot provide. 
+
+I am specifically looking for roles in digital marketing and data analytics, as I enjoy being in roles where I can play a significant part in driving the bottom line of the organisation. I also have some level of experience in these fields. 
 
 <!-- Add link to the sections -->
 [Experience](#experience) <br>
@@ -34,22 +36,65 @@ I am currently doing a Mid-Career Pathways Programme in Data Analytics by Boston
 <!-- EXPERIENCE Section Starts -->
 ### EXPERIENCE
 <!-- Add your details -->
-##### BOSTON CONSULTING GROUP
-SENIOR ANALYST<br>
-June-2019 to Present: 1 year 10 Months
+##### BOSTON CONSULTING GROUP DIGITAL BCG ACADEMY
+BUSINESS AND DATA ANALYTICS TRAINEE<br>
+March-2021 to Present
 
-ROLE: Data Scientist/ Machine Learning Engineer/ AI Consultant
-UNIT: BCG GAMMA
+- SGUnited Mid-Career Pathways Programme to build skills such as statistical analysis, Python, SQL basics and data visualization using PowerBI
+- Selected top 2 for business essentials group project, comprising structured problem solving, modelling and analysis based on a case study of Apple
+- Selected within top few teams to present to Singapore Airlines for a real world project to re-imagine travel planning journey for SIA customers.
 
-Working on various analytics based cases that facilitates clients for next-generation AI strategy. Involved in asset building while applying scientific algorithms on a huge amount of text, time-series data, images and other forms of unstructured data.
+##### STREAKS N STROKES
+CO-FOUNDER<br>
+January 2019 - Present
+
+- Achieved over $60,000 in revenue from corporate team building activities in December 2019 using social media, SEO and paid partnerships
+- Designed social media creatives and implemented, managed and grew Facebook and Instagram accounts
+- Created social media content adapted to popular local seasons and festivals, such as Valentines Day, National Day and school holidays
+- Utilized funny social media trendjacking ideas from news like Covid-19 panic buying, bubble tea shop closures during lockdown and latest movie releases
+- Led the business pivot from art studio to e-commerce store during Covid-19
+
+##### HEARTY SPICES
+DIGITAL MARKETING EXECUTIVE (PART TIME)<br>
+March 2020 - February 2021
+
+- Utilised Facebook paid advertising to grow sales of turmeric latte spice mix packets over 10x in the first 3 months of product launch
+- Ran A/B tests to choose the best performing Facebook ads before scaling
+- Scripted and created product and marketing videos for YouTube, Instagram and Facebook
+
+##### PRECEPTIV
+SOCIAL MEDIA MARKETER (1 YEAR INTERNSHIP)<br>
+February 2016 - December 2016
+
+- Conceptualized and wrote innovative blog articles to attract more clients for their profiling and targeting platform 
+- Analysed social media profiling data for the company's clients
+
+##### GLINTS
+COMMUNITY MANAGER (3 MONTH INTERNSHIP)<br>
+May 2015 - August 2015
+
+- Created Facebook advertising campaigns with above-average click-through rates of about 2 to 5%
+- Ran A/B testing campaigns on social media to find out what the most effective strategies were
+- Formed partnerships with student groups to give Glints more outreach among students
+- During my stint in the marketing team, monthly user growth surged by 82.47%, from May to June 2015, a significant increase from previous months
+
+##### THE NOTEWAY
+CO-FOUNDER<br>
+December 2014 - September 2019
+
+- Executed SEO tactics to rank The Noteway on the top 3 ranking positions on page 1 of Google for key search terms such as "T-Shirt Printing Singapore" 
+- Managed and grew The Noteway's Instagram Account from 0 to 4500 followers
 
 <!-- EXPERIENCE Section Ends -->
 
 <!-- EDUCATION Section Starts -->
 ### EDUCATION
 <!-- Add your details -->
-##### LNCT Bhopal
-Engineering Graduate 2010-14, First Division
+##### NANYANG TECHNOLOGICAL UNIVERSITY, SINGAPORE
+Bachelor of Business Administration (Hons) - August 2013 to May 2017
+
+- Specialised in Marketing
+- Minor in Entrepreneurship
 
 <!-- EDUCATION Section Ends -->
 
