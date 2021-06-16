@@ -28,7 +28,6 @@ I am specifically looking for roles in digital marketing and data analytics, as 
 <!-- Add link to the sections -->
 [Experience](#experience) <br>
 [Education](#education) <br>
-[Projects](#projects) <br>
 [Featured](#featured) <br> 
 
 <!-- ABOUT Section Ends -->
@@ -52,7 +51,7 @@ January 2019 - Present
 - Designed social media creatives and implemented, managed and grew Facebook and Instagram accounts
 - Created social media content adapted to popular local seasons and festivals, such as Valentines Day, National Day and school holidays
 - Utilized funny social media trendjacking ideas from news like Covid-19 panic buying, bubble tea shop closures during lockdown and latest movie releases
-- Led the business pivot from art studio to e-commerce store during Covid-19
+- Led the [business pivot from art studio to e-commerce store during Covid-19](https://www.streaksnstrokes.com/pages/our-story)
 
 ##### HEARTY SPICES
 DIGITAL MARKETING EXECUTIVE (PART TIME)<br>
@@ -98,37 +97,36 @@ Bachelor of Business Administration (Hons) - August 2013 to May 2017
 
 <!-- EDUCATION Section Ends -->
 
-<!-- PROJECTS Section Starts -->
-### PROJECTS
-<!-- Add your details -->
-
-[Classification based projects](#classification-based-projects) <br>
-[Regression based projects](#regression-based-projects) <br>
-
-<!-- Add your details -->
-
-#### Classification based projects
-![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/Classification.png)
-
-In machine learning, classification refers to a predictive modeling problem where a class label is predicted for a given example of input data.
-
-[Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Classification)
-
-#### Regression based projects
-![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/Regression.jpg)
-
-Regression is a supervised learning technique which helps in finding the correlation between variables and enables us to predict the continuous output variable based on the one or more predictor variables.
-
-[Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Regression)
-
-<!-- PROJECTS Section Ends -->
-
 <!-- FEATURED Section Starts -->
 ## FEATURED
 <!-- Add your details -->
 ##### Certifications
-Machine Learning by Columbia University
 
-##### Achievements
-Star performer of the year at Accenture
-<!-- FEATURED Section Ends -->
+- Business and Data Analytics by Boston Consulting Group (DigitalBCG Academy) - In Progress
+- Search Engine Optimisation by Fabian Lim
+- Khalid Hamadeh's Facebook Marketing School
+- Ultimate Google Ads Training by Isaac Rudansky
+- NAS Academy Video Creator
+- The Digital Garage by Google
+
+
+##### Skills And Abilities
+
+- Pay Per Click Advertising (PPC)
+- E-Commerce Marketing
+- Facebook Advertising
+- Copywriting
+- Google Analytics, Google My Business
+- Social Media Marketing
+- Data Analytics
+- A/B Testing
+- Video Conceptualisation & Script Writing
+- Basic Video Editing with Adobe Premier Pro
+- Search Enginer Marketing (SEM)
+- Search Enginer Optimisation (SEO)
+- Graphic Design with Canva
+- Content Marketing
+- Email Marketing 
+- PowerBI
+- Python Basics
+- SQL Basics
