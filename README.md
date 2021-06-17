@@ -19,10 +19,10 @@ I am __Senthilkumar Subramanian__, a 29 year old startup founder with ~5 years o
 
 ![alt text](https://raw.githubusercontent.com/senthilkumar207/senthilkumar_subramanian/main/Streaks%20n%20Strokes%20Picture%20Resized%20Final.jpg)
 
-I am currently doing a Mid-Career Pathways Programme in Data Analytics by Boston Consulting Group from March to August 2021, as I am looking to pivot to a stable career in data analytics and/or digital marketing. The 2 key reasons I am looking to switch my career from startup founder to working in an organisation in data analytics and/or digital marketing are
+I am currently doing a Mid-Career Pathways Programme in Data Analytics by Boston Consulting Group from March to August 2021, as I am __looking to pivot to a career in data analytics and/or digital marketing.__ The 2 key reasons I am looking to switch my career from startup founder to working in an organisation are
 
-1.  I want to grow my skills further and faster in the areas of digital marketing and data analytics, which I will be able to do best in a career in this field. 
-2.  I am at a stage in my life where I want more financial stability, which a startup cannot provide. 
+1.  I want to __grow my skills further in the areas of digital marketing and data analytics__, which I will be able to do best in a career in this field. 
+2.  I am at a stage in my life where I __want more financial stability__, which a startup cannot provide. 
 
 I am specifically looking for roles in digital marketing and data analytics, as I enjoy being in roles where I can play a significant part in driving the bottom line of the organisation. I also have some level of experience in these fields. 
 
