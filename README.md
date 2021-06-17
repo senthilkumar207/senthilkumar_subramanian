@@ -54,7 +54,7 @@ January 2019 - Present
 - Utilized funny social media trendjacking ideas from news like Covid-19 panic buying, bubble tea shop closures during lockdown and latest movie releases
 - Led the [business pivot from art studio to e-commerce store during Covid-19](https://www.streaksnstrokes.com/pages/our-story)
 
-![alt text](https://raw.githubusercontent.com/senthilkumar207/senthilkumar_subramanian/main/Images%20for%20Portfolio%20Site.png)
+![alt text](https://raw.githubusercontent.com/senthilkumar207/senthilkumar_subramanian/main/Team%20Having%20Fun%20.png)
 
 ##### HEARTY SPICES
 DIGITAL MARKETING EXECUTIVE (PART TIME)<br>
