@@ -71,6 +71,8 @@ February 2016 - December 2016
 - Conceptualized and wrote innovative blog articles to attract more clients for their profiling and targeting platform 
 - Analysed social media profiling data for the company's clients
 
+![alt text](https://raw.githubusercontent.com/senthilkumar207/senthilkumar_subramanian/main/OEP.png)
+
 ##### GLINTS
 COMMUNITY MANAGER (3 MONTH INTERNSHIP)<br>
 May 2015 - August 2015
@@ -79,6 +81,8 @@ May 2015 - August 2015
 - Ran A/B testing campaigns on social media to find out what the most effective strategies were
 - Formed partnerships with student groups to give Glints more outreach among students
 - During my stint in the marketing team, monthly user growth surged by 82.47%, from May to June 2015, a significant increase from previous months
+
+![alt text](https://raw.githubusercontent.com/senthilkumar207/senthilkumar_subramanian/main/Glints.png)
 
 ##### THE NOTEWAY
 CO-FOUNDER<br>
@@ -97,6 +101,8 @@ Bachelor of Business Administration (Hons) - August 2013 to May 2017
 
 - Specialised in Marketing
 - Minor in Entrepreneurship
+
+![alt text](https://raw.githubusercontent.com/senthilkumar207/senthilkumar_subramanian/main/MIE.png)
 
 <!-- EDUCATION Section Ends -->
 
