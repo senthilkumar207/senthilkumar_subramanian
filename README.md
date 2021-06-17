@@ -67,10 +67,11 @@ March 2020 - February 2021
 - Scripted and created product and marketing videos for YouTube, Instagram and Facebook
 
 ##### PRECEPTIV
-SOCIAL MEDIA MARKETER (1 YEAR INTERNSHIP)<br>
+SOCIAL MEDIA MARKETER (1 YEAR OVERSEAS INTERNSHIP)<br>
 February 2016 - December 2016
 
-- Conceptualized and wrote innovative blog articles to attract more clients for their profiling and targeting platform 
+- Interned at a Saas startup in Manchester
+- Conceptualized and wrote innovative blog articles to attract more clients for their social media profiling and targeting platform 
 - Analysed social media profiling data for the company's clients
 
 ![alt text](https://raw.githubusercontent.com/senthilkumar207/senthilkumar_subramanian/main/OEP.png)
