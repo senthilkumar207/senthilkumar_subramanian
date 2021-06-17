@@ -11,7 +11,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://github.com/senthilkumar207/senthilkumar_subramanian/raw/main/Professional%20Photo.jpeg)
+![alt text](https://raw.githubusercontent.com/senthilkumar207/senthilkumar_subramanian/main/Streaks%20n%20Strokes%20Resize.png)
 
 <!-- Add your details -->
 
