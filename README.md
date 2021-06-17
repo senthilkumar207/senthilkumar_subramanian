@@ -44,6 +44,8 @@ March-2021 to Present
 - Selected top 2 for business essentials group project, comprising structured problem solving, modelling and analysis based on a case study of Apple
 - Selected within top few teams to present to Singapore Airlines for a real world project to re-imagine travel planning journey for SIA customers.
 
+![alt text](https://raw.githubusercontent.com/senthilkumar207/senthilkumar_subramanian/main/BCG%20Rise.png)
+
 ##### STREAKS N STROKES
 CO-FOUNDER<br>
 January 2019 - Present
