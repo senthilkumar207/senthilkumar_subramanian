@@ -11,13 +11,13 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://raw.githubusercontent.com/senthilkumar207/senthilkumar_subramanian/main/Streaks%20n%20Strokes%20Resize.png)
+![alt text](https://github.com/senthilkumar207/senthilkumar_subramanian/raw/main/Professional%20Photo.jpeg)
 
 <!-- Add your details -->
 
 I am __Senthilkumar Subramanian__, a 29 year old startup founder with ~5 years of experience in digital marketing and startups. My key achievements include generating over $60k in revenue for my startup, [Streaks n Strokes](https://www.streaksnstrokes.com/), in December 2019 and [pivoting the startup in the midst of Covid-19](https://www.streaksnstrokes.com/pages/our-story) to an ecommerce company. 
 
-![alt text](https://raw.githubusercontent.com/senthilkumar207/senthilkumar_subramanian/main/Streaks%20n%20Strokes.png)
+![alt text](https://raw.githubusercontent.com/senthilkumar207/senthilkumar_subramanian/main/Streaks%20n%20Strokes%20Resize.png)
 
 I am currently doing a Mid-Career Pathways Programme in Data Analytics by Boston Consulting Group from March to August 2021, as I am looking to pivot to a stable career in data analytics and/or digital marketing. The 2 key reasons I am looking to switch my career from startup founder to working in an organisation in data analytics and/or digital marketing are
 
