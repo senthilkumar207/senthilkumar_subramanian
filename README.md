@@ -24,7 +24,7 @@ I am currently doing a Mid-Career Pathways Programme in Data Analytics by Boston
 1.  I want to __grow my skills further in the areas of digital marketing and data analytics__, which I will be able to do best in a career in this field. 
 2.  I am at a stage in my life where I __want more financial stability__, which a startup cannot provide. 
 
-I am specifically looking for roles in digital marketing and data analytics, as I enjoy being in roles where I can play a significant part in driving the bottom line of the organisation. I also have some level of experience in these fields. 
+I am specifically looking for roles in digital marketing and data analytics, as I enjoy being in roles where I can play a significant part in driving the bottom line of the organisation. I also have some experience in these fields. 
 
 <!-- Add link to the sections -->
 [Experience](#experience) <br>
