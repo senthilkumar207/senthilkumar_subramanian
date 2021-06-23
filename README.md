@@ -66,6 +66,15 @@ March 2020 - February 2021
 - Ran A/B tests to choose the best performing Facebook ads before scaling
 - Scripted and created product and marketing videos for YouTube, Instagram and Facebook
 
+##### THE NOTEWAY
+Digital Marketing Manager (FULL TIME)<br>
+June 2017 - December 2018
+
+- Was in charge of using On Page Search Engine Optimisation tactics to rank website for key search terms related to printing services offered
+- Executed SEO tactics to rank The Noteway on the top 3 ranking positions on page 1 of Google for key search terms such as "T-Shirt Printing Singapore" 
+- Managed and grew The Noteway's Instagram Account from 0 to 4000 followers
+- Managed corporate clients and led a team of business development executives to handle corporate clients for printing services.
+
 ##### PRECEPTIV
 SOCIAL MEDIA MARKETER (1 YEAR OVERSEAS INTERNSHIP)<br>
 February 2016 - December 2016
@@ -86,13 +95,6 @@ May 2015 - August 2015
 - During my stint in the marketing team, monthly user growth surged by 82.47%, from May to June 2015, a significant increase from previous months
 
 ![alt text](https://raw.githubusercontent.com/senthilkumar207/senthilkumar_subramanian/main/Glints.png)
-
-##### THE NOTEWAY
-CO-FOUNDER<br>
-December 2014 - September 2019
-
-- Executed SEO tactics to rank The Noteway on the top 3 ranking positions on page 1 of Google for key search terms such as "T-Shirt Printing Singapore" 
-- Managed and grew The Noteway's Instagram Account from 0 to 4500 followers
 
 <!-- EXPERIENCE Section Ends -->
 
