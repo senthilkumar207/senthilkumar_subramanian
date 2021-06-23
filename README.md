@@ -15,7 +15,7 @@
 
 <!-- Add your details -->
 
-I am __Senthilkumar Subramanian__, a 29 year old startup founder with ~5 years of experience in digital marketing and startups. My key achievements include generating over $60k in revenue for my startup, [Streaks n Strokes](https://www.streaksnstrokes.com/), in December 2019 and [pivoting the startup in the midst of Covid-19](https://www.streaksnstrokes.com/pages/our-story) to an ecommerce company. 
+I am __Senthilkumar Subramanian__, a 29 year old data analytics trainee at Boston Consulting Group DigitalBCG Academy with ~5 years of experience in digital marketing and startups. My key achievements include generating over $60k in revenue for my startup, [Streaks n Strokes](https://www.streaksnstrokes.com/), in December 2019 and [pivoting the startup in the midst of Covid-19](https://www.streaksnstrokes.com/pages/our-story) to an ecommerce company. 
 
 ![alt text](https://raw.githubusercontent.com/senthilkumar207/senthilkumar_subramanian/main/Streaks%20n%20Strokes%20Picture%20Resized%20Final.jpg)
 
