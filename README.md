@@ -58,14 +58,6 @@ January 2019 - Present
 
 ![alt text](https://raw.githubusercontent.com/senthilkumar207/senthilkumar_subramanian/main/Team%20Having%20Fun%20.png)
 
-##### HEARTY SPICES
-DIGITAL MARKETING EXECUTIVE (PART TIME)<br>
-March 2020 - February 2021
-
-- Utilised Facebook paid advertising to grow sales of turmeric latte spice mix packets over 10x in the first 3 months of product launch
-- Ran A/B tests to choose the best performing Facebook ads before scaling
-- Scripted and created product and marketing videos for YouTube, Instagram and Facebook
-
 ##### THE NOTEWAY
 Digital Marketing Manager (FULL TIME)<br>
 June 2017 - December 2018
@@ -74,6 +66,14 @@ June 2017 - December 2018
 - Executed SEO tactics to rank The Noteway on the top 3 ranking positions on page 1 of Google for key search terms such as "T-Shirt Printing Singapore" 
 - Managed and grew The Noteway's Instagram Account from 0 to 4000 followers
 - Managed corporate clients and led a team of business development executives to handle corporate clients for printing services.
+
+##### HEARTY SPICES
+DIGITAL MARKETING EXECUTIVE (PART TIME)<br>
+March 2020 - February 2021
+
+- Utilised Facebook paid advertising to grow sales of turmeric latte spice mix packets over 10x in the first 3 months of product launch
+- Ran A/B tests to choose the best performing Facebook ads before scaling
+- Scripted and created product and marketing videos for YouTube, Instagram and Facebook
 
 ##### PRECEPTIV
 SOCIAL MEDIA MARKETER (1 YEAR OVERSEAS INTERNSHIP)<br>
