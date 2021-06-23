@@ -67,6 +67,8 @@ June 2017 - December 2018
 - Managed and grew The Noteway's Instagram Account from 0 to 4000 followers
 - Managed corporate clients and led a team of business development executives to handle corporate clients for printing services.
 
+![alt text](https://raw.githubusercontent.com/senthilkumar207/senthilkumar_subramanian/main/The%20Noteway.png)
+
 ##### HEARTY SPICES
 DIGITAL MARKETING EXECUTIVE (PART TIME)<br>
 March 2020 - February 2021
