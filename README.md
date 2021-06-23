@@ -65,7 +65,7 @@ June 2017 - December 2018
 - Was in charge of using On Page Search Engine Optimisation tactics to rank website for key search terms related to printing services offered
 - Identified long tail keywords with low competition to rank for on Google first, before working on more competitive search terms. Also identified article title tags and LSI keywords and phrases to include in each article.
 - Executed SEO tactics to rank The Noteway on the top 3 ranking positions on page 1 of Google for key search terms such as "T-Shirt Printing Singapore" 
-- Managed and grew The Noteway's Instagram Account from 0 to 4000 followers
+- Managed and grew The Noteway's Instagram Account to 4000 followers
 - Managed corporate clients and led a team of business development executives to handle corporate clients for printing services.
 
 ![alt text](https://raw.githubusercontent.com/senthilkumar207/senthilkumar_subramanian/main/The%20Noteway.png)
