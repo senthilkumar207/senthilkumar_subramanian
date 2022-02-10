@@ -15,16 +15,9 @@
 
 <!-- Add your details -->
 
-I am __Senthilkumar Subramanian__, a 29 year old data analytics trainee at Boston Consulting Group DigitalBCG Academy with ~5 years of experience in digital marketing and startups. My key achievements include generating over $60k in revenue for my startup, [Streaks n Strokes](https://www.streaksnstrokes.com/), in December 2019 and [pivoting the startup in the midst of Covid-19](https://www.streaksnstrokes.com/pages/our-story) to an ecommerce company. 
+I am __Senthilkumar Subramanian__, a 30 year old entrepreneur with ~5 years of experience in digital marketing and startups. My key achievements include generating over $60k in revenue for my startup, [Streaks n Strokes](https://www.streaksnstrokes.com/), in December 2019 and [pivoting the startup in the midst of Covid-19](https://www.streaksnstrokes.com/pages/our-story) to an ecommerce company. 
 
 ![alt text](https://raw.githubusercontent.com/senthilkumar207/senthilkumar_subramanian/main/Streaks%20n%20Strokes%20Picture%20Resized%20Final.jpg)
-
-I am currently doing a Mid-Career Pathways Programme in Data Analytics by Boston Consulting Group from March to August 2021, as I am __looking to pivot to a career in data analytics and/or digital marketing.__ The 2 key reasons I am looking to switch my career from startup founder to working in an organisation are
-
-1.  I want to __grow my skills further in the areas of digital marketing and data analytics__, which I will be able to do best in a career in this field. 
-2.  I am at a stage in my life where I __want more financial stability__, which a startup cannot provide. 
-
-I am specifically looking for roles in digital marketing and data analytics, as I enjoy being in roles where I can play a significant part in driving the bottom line of the organisation. I also have real world experience in digital marketing, especially __Search Engine Optimisation__ and __Facebook paid advertising__, and undergone training in data analytics. 
 
 <!-- Add link to the sections -->
 [Experience](#experience) <br>
@@ -59,7 +52,7 @@ January 2019 - Present
 ![alt text](https://raw.githubusercontent.com/senthilkumar207/senthilkumar_subramanian/main/Team%20Having%20Fun%20.png)
 
 ##### THE NOTEWAY
-Digital Marketing Manager (FULL TIME)<br>
+Co-Founder (FULL TIME)<br>
 June 2017 - December 2018
 
 - Was in charge of using On Page Search Engine Optimisation tactics to rank website for key search terms related to printing services offered
@@ -73,8 +66,8 @@ June 2017 - December 2018
 ![alt text](https://raw.githubusercontent.com/senthilkumar207/senthilkumar_subramanian/main/The%20Noteway.png)
 
 ##### HEARTY SPICES
-DIGITAL MARKETING EXECUTIVE (PART TIME)<br>
-March 2020 - February 2021
+Co-Founder <br>
+March 2020 - Present
 
 - Utilised Facebook paid advertising to grow sales of turmeric latte spice mix packets over 10x in the first 3 months of product launch
 - Ran A/B tests to choose the best performing Facebook ads before scaling
